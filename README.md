@@ -1,4 +1,4 @@
-# UnrealService
+# AwesomeService
 Various external service infrastructure for UE4
 
 ## Future Features
