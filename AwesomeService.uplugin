@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AwesomeService",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "George Rolfe",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AwesomeService",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
