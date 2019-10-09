@@ -1,8 +1,8 @@
 using UnrealBuildTool;
 
-public class UnrealService : ModuleRules
+public class AwesomeService : ModuleRules
 {
-	public UnrealService(ReadOnlyTargetRules Target) : base(Target)
+	public AwesomeService(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
 
