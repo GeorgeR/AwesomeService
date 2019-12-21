@@ -12,4 +12,8 @@ class AWESOMESERVICE_API UDbService
 {
     GENERATED_BODY()
 
+public:
+
+
+
 };
