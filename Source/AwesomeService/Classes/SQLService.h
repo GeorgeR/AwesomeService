@@ -2,8 +2,8 @@
 
 #include "CoreMinimal.h"
 #include "DbService.h"
-#include "AsyncResult.h"
-#include "Union.h"
+#include "Async/AsyncResult.h"
+#include "Containers/Union.h"
 
 #include "SQLService.generated.h"
 

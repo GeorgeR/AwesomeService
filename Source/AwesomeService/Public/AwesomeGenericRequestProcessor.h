@@ -1,13 +1,12 @@
 #pragma once
 
-#include "Future.h"
-#include "Guid.h"
-#include "Queue.h"
-#include "Runnable.h"
-#include "RunnableThread.h"
-#include "SingleThreadRunnable.h"
-#include "TaskGraphInterfaces.h"
-#include "ThreadSafeBool.h"
+#include "Async/Future.h"
+#include "Misc/Guid.h"
+#include "Containers/Queue.h"
+#include "HAL/Runnable.h"
+#include "HAL/RunnableThread.h"
+#include "Misc/SingleThreadRunnable.h"
+#include "HAL/ThreadSafeBool.h"
 
 #include "AwesomeServiceTypes.h"
 
